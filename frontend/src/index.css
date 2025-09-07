@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+/* custom colors */
+/* navbar bg */
+.bg-nav {
+    background-color: #023020;
+}
+.text-nav {
+    color: #c5a640;
+}
+
+/* best seller page */
+.heading-teal {
+    color: #154242;
+}
+.product-text {
+    color: #165f41;
+}
+
+/* footer bg */
+.footer-bg {
+    background-color: #468169;
+}
+
+.text-wheat {
+    color: #F5BD02;
+}
+
+.body-bg {
+    background-color: #c8f0de;
+}
+
+/* product card bg*/
+.card-bg {
+    background-color: #f0e09b;
+}
+/* home page buttons */
+.buttons-bg {
+    background-color: #dfbe53ef;
+}
+
+/* home gradients bg */
+.bg-green-gradient {
+    background: linear-gradient(
+      to right,
+      #a9e9ac,  /* darker green left edge */
+      #cfeecf,  /* very light green center */
+      #a9e9ac   /* darker green right edge */
+    );
+  }
+
+  .bg-amber-gradient {
+    background: linear-gradient(
+      to right,
+      #f5d057,  /* royal gold edge */
+      #fdeca1,  /* light golden cream center */
+      #f5d057   /* royal gold edge */
+    );
+  }
+  
+  
+  
+  
+  
