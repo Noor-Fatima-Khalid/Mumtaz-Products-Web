@@ -1,3 +1,5 @@
+// add here for db
+
 import mongoose from "mongoose";
 import dotenv from "dotenv";
 import Product from "./models/product.js";
